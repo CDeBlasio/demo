@@ -5,6 +5,7 @@
     "id": 1,
     "title": "fammi un zucazuca",
     "body": "eeeeee"
+  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
