@@ -1,9 +1,9 @@
 {
   "posts": [
   {
-    "user": 1,
-    "id1": 1,
-    "titl": "fammi un zucazuca",
+    "userId": 1,
+    "id": 1,
+    "title": "fammi un zucazuca",
     "body": "eeeeee"
   }
   ],
